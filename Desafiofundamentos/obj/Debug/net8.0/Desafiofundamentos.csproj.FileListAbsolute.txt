@@ -1,0 +1,14 @@
+C:\Users\Namir\Desktop\Projetos\Desafiofundamentos\bin\Debug\net8.0\Desafiofundamentos.exe
+C:\Users\Namir\Desktop\Projetos\Desafiofundamentos\bin\Debug\net8.0\Desafiofundamentos.deps.json
+C:\Users\Namir\Desktop\Projetos\Desafiofundamentos\bin\Debug\net8.0\Desafiofundamentos.runtimeconfig.json
+C:\Users\Namir\Desktop\Projetos\Desafiofundamentos\bin\Debug\net8.0\Desafiofundamentos.dll
+C:\Users\Namir\Desktop\Projetos\Desafiofundamentos\bin\Debug\net8.0\Desafiofundamentos.pdb
+C:\Users\Namir\Desktop\Projetos\Desafiofundamentos\obj\Debug\net8.0\Desafiofundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Namir\Desktop\Projetos\Desafiofundamentos\obj\Debug\net8.0\Desafiofundamentos.AssemblyInfoInputs.cache
+C:\Users\Namir\Desktop\Projetos\Desafiofundamentos\obj\Debug\net8.0\Desafiofundamentos.AssemblyInfo.cs
+C:\Users\Namir\Desktop\Projetos\Desafiofundamentos\obj\Debug\net8.0\Desafiofundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Namir\Desktop\Projetos\Desafiofundamentos\obj\Debug\net8.0\Desafiofundamentos.dll
+C:\Users\Namir\Desktop\Projetos\Desafiofundamentos\obj\Debug\net8.0\refint\Desafiofundamentos.dll
+C:\Users\Namir\Desktop\Projetos\Desafiofundamentos\obj\Debug\net8.0\Desafiofundamentos.pdb
+C:\Users\Namir\Desktop\Projetos\Desafiofundamentos\obj\Debug\net8.0\Desafiofundamentos.genruntimeconfig.cache
+C:\Users\Namir\Desktop\Projetos\Desafiofundamentos\obj\Debug\net8.0\ref\Desafiofundamentos.dll
